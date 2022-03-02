@@ -1,1 +1,1 @@
-Pulse
+Education site "Pulse"
